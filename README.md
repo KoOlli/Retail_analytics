@@ -297,5 +297,3 @@ Function output:
 | Customer ID            | Customer_ID           |                                    |                                                       |
 | SKU offers             | SKU_Name              |                                    | The name of the SKU offer, to which the reward is accrued when the condition is met. |
 | Maximum discount depth | Offer_Discount_Depth  | Arabic numeral (decimal), percent  | The maximum possible discount for the offer                                    |
-
-💡 [Tap here](https://forms.yandex.ru/cloud/641820bf5d2a060d5d1b2b40/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
